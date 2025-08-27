@@ -47,7 +47,10 @@ It uses **Natural Language Processing (NLP)** techniques with **TF-IDF vectoriza
 ---
 
 ## 📸 Screenshots  
-_Add your screenshots here for dataset preview, training results, and confusion matrix output._  
+![fff](https://github.com/user-attachments/assets/004dfab6-0d96-4b68-89e3-3d12258a15f0)
+![ff](https://github.com/user-attachments/assets/cc8690b8-8a85-4846-980f-b7e73031f0a5)
+![f](https://github.com/user-attachments/assets/09ef32be-d0ec-43f0-a434-14f35ceeb7ac)
+ 
 
 ---
 
